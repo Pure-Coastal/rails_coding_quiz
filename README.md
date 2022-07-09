@@ -1,4 +1,4 @@
-# LD Studios Taco Shop.  Build a Taco Ordering API!  Yum!
+# Pure Coastal Taco Shop.  Build a Taco Ordering API!  Yum!
 
 ## What We Look For In A Candidate
 
