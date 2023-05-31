@@ -19,7 +19,7 @@
   2. `POST /tacos` - Creates a taco with the given parameters
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
 
-#### Step 3: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
+#### Step 3: Upload your completed solution to a public [Github](https://www.github.com/) repository so we can review.
 
 #### Step 4: Host the working solution on [Heroku](https://www.heroku.com/) and send the Heroku App URL to us for review.
 
